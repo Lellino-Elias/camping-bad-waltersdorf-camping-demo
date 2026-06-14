@@ -87,7 +87,7 @@ const campingBadWaltersdorf: CampsiteConfig = {
       {
         title: "ADAC-empfohlene Stellplätze",
         text: "Gepflegte Plätze mit Wasser-, Strom- und teils Abwasseranschluss — vom ADAC empfohlen und auf camping.info top bewertet.",
-        image: { src: `${IMG}/award-82dfb8422f.png`, alt: "Gepflegter Stellplatz mit Wohnmobil und grüner Wiese am Campingplatz Bad Waltersdorf" },
+        image: { src: `${IMG}/award-c7dab8f9e9.png`, alt: "ADAC-empfohlener Stellplatz am Thermenland Camping Bad Waltersdorf mit Wohnmobil und grüner Wiese" },
       },
       {
         title: "Frühstück wie zuhause",
