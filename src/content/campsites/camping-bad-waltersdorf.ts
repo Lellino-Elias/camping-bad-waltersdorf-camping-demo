@@ -82,7 +82,7 @@ const campingBadWaltersdorf: CampsiteConfig = {
       {
         title: "98 Plätze im Grünen",
         text: "Ebene, geschotterte und begrünte Stellplätze am romantischen Safenbach, von drei Seiten von Bäumen und Sträuchern umgeben.",
-        image: { src: `${IMG}/award-06fb1fbb39.png`, alt: "Blick auf den Campingplatz Bad Waltersdorf im Grünen" },
+        image: { src: `${IMG}/platz-familie-wiese.webp`, alt: "Familie entspannt auf der grünen Wiese vor dem Wohnmobil am Campingplatz Bad Waltersdorf" },
       },
       {
         title: "ADAC-empfohlene Stellplätze",
