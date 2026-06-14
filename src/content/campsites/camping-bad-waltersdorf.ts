@@ -105,12 +105,12 @@ const campingBadWaltersdorf: CampsiteConfig = {
       {
         title: "Ausflüge mit dem Oldie-Bus",
         text: "Mit dem restaurierten Oldie-Bus Trude geht es auf gemütliche Ausfahrten durch das Thermen- und Vulkanland.",
-        image: { src: `${IMG}/gallery-dcdfd4214f.webp`, alt: "Oldtimer-Bus vor der Frühlingsausfahrt am Campingplatz" },
+        image: { src: `${IMG}/activity-19e35c88a7.webp`, alt: "Oldtimer-Bus Trude der Familie Rath vor einem Bauernhaus" },
       },
       {
         title: "Oldie-Traktor zum Buschenschank",
         text: "Der Oldtimer-Traktor mit Planwagen kutschiert dich zu den heimischen Buschenschänken der Oststeiermark.",
-        image: { src: `${IMG}/gallery-668272c88a.webp`, alt: "Oldtimer-Traktor mit Planwagen am Campingplatz" },
+        image: { src: `${IMG}/gallery-deca660ff1.webp`, alt: "Oldtimer-Traktor mit überdachtem Planwagen am Campingplatz" },
       },
       {
         title: "Geführte Wander- & Radtouren",
@@ -140,7 +140,7 @@ const campingBadWaltersdorf: CampsiteConfig = {
     intro: "Oldtimer-Ausfahrten, Buschenschank-Stimmung und urige Ausflugsziele — ein paar Eindrücke aus dem Camping-Jahr.",
     tag: "Ganzjährig geöffnet",
     images: [
-      { src: `${IMG}/gallery-deca660ff1.webp`, alt: "Oldtimer-Traktor mit Planwagen auf dem Campingplatz" },
+      { src: `${IMG}/gallery-668272c88a.webp`, alt: "Oldtimer-Traktor mit Planwagen auf dem Campingplatz" },
       { src: `${IMG}/gallery-81b02147a3.webp`, alt: "Nostalgischer Greißlerladen als Ausflugsziel in der Region" },
       { src: `${IMG}/gallery-7c33fb9284.webp`, alt: "Historische Bauernstube in einem oststeirischen Museum" },
     ],
