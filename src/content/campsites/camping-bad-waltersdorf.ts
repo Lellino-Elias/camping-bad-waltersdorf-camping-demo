@@ -105,7 +105,7 @@ const campingBadWaltersdorf: CampsiteConfig = {
       {
         title: "Ausflüge mit dem Oldie-Bus",
         text: "Mit dem restaurierten Oldie-Bus Trude geht es auf gemütliche Ausfahrten durch das Thermen- und Vulkanland.",
-        image: { src: `${IMG}/activity-19e35c88a7.webp`, alt: "Oldtimer-Bus Trude der Familie Rath vor einem Bauernhaus" },
+        image: { src: `${IMG}/gallery-dcdfd4214f.webp`, alt: "Oldtimer-Bus Trude der Familie Rath beim Buschenschank-Ausflug im Frühling" },
       },
       {
         title: "Oldie-Traktor zum Buschenschank",
@@ -143,6 +143,8 @@ const campingBadWaltersdorf: CampsiteConfig = {
       { src: `${IMG}/gallery-668272c88a.webp`, alt: "Oldtimer-Traktor mit Planwagen auf dem Campingplatz" },
       { src: `${IMG}/gallery-81b02147a3.webp`, alt: "Nostalgischer Greißlerladen als Ausflugsziel in der Region" },
       { src: `${IMG}/gallery-7c33fb9284.webp`, alt: "Historische Bauernstube in einem oststeirischen Museum" },
+      { src: `${IMG}/gallery-9d6a3ebb22.webp`, alt: "Kinder spielen auf der Wiese vor dem Wohnmobil am Campingplatz Bad Waltersdorf" },
+      { src: `${IMG}/gallery-d9849bcfd7.webp`, alt: "Rogner Bad Blumau Therme mit dem markanten Hundertwasser-Außenpool" },
     ],
   },
 
